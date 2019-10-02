@@ -57,3 +57,14 @@ Request header - use 'Content-Type' header with value 'application/x-www-form-ur
 ### third party API
 
 on the coding process used third party api from [jsonplaceholder.typicode.com](http://jsonplaceholder.typicode.com)
+
+### Dockerize Node App
+
+install [Docker Desktop](https://www.docker.com/products/docker-desktop)
+
+```docker
+
+docker build -t node-docker .
+docker run -p 3003:3003 node-docker
+
+```

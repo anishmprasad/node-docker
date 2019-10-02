@@ -1,4 +1,4 @@
-# nodejs-api-server
+# node-docker
 
 Simple API server created on nodejs using express which can be easily modified and extended
 

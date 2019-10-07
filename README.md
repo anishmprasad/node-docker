@@ -68,3 +68,7 @@ docker build -t node-docker .
 docker run -p 3003:3003 node-docker
 
 ```
+
+### Licence
+
+MIT

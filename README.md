@@ -71,4 +71,4 @@ docker run -p 3003:3003 node-docker
 
 ### Licence
 
-MIT
+MIT Licenced
